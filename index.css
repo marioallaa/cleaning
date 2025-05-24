@@ -190,6 +190,7 @@
 } .u-section-3 {
   background-repeat: no-repeat, no-repeat;
   background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url('images/pexels-jan-van-der-wolf-11680885-193819181.jpg');
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -441,6 +442,61 @@
 @media (max-width: 575px) {
   .u-section-3 .u-repeater-1 {
     grid-auto-columns: 100%;
+  }
+
+  .u-section-3 .u-text-3 {
+    width: 190px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-3 .u-text-4 {
+    width: auto;
+  }
+
+  .u-section-3 .u-text-5 {
+    width: auto;
+  }
+
+  .u-section-3 .u-text-6 {
+    width: 190px;
+    margin-left: auto;
+  }
+
+  .u-section-3 .u-text-7 {
+    width: auto;
+  }
+
+  .u-section-3 .u-text-8 {
+    width: auto;
+  }
+
+  .u-section-3 .u-text-9 {
+    width: 190px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-3 .u-text-10 {
+    width: auto;
+  }
+
+  .u-section-3 .u-text-11 {
+    width: auto;
+  }
+
+  .u-section-3 .u-text-12 {
+    width: 190px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-3 .u-text-13 {
+    width: auto;
+  }
+
+  .u-section-3 .u-text-14 {
+    width: auto;
   }
 } .u-section-4 {
   background-image: none;
@@ -919,6 +975,22 @@
   .u-section-7 .u-text-1 {
     width: auto;
   }
+
+  .u-section-7 .u-accordion-link-1 {
+    font-weight: 700;
+  }
+
+  .u-section-7 .u-accordion-link-2 {
+    font-weight: 700;
+  }
+
+  .u-section-7 .u-accordion-link-3 {
+    font-weight: 700;
+  }
+
+  .u-section-7 .u-accordion-link-4 {
+    font-weight: 700;
+  }
 }.u-section-8 .u-sheet-1 {
   min-height: 640px;
 }
@@ -1156,6 +1228,23 @@
   .u-section-9 .u-container-layout-2 {
     padding-left: 10px;
     padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-9 .u-layout-cell-1 {
+    min-height: 586px;
+  }
+
+  .u-section-9 .u-container-layout-1 {
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+
+  .u-section-9 .u-text-2 {
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
   }
 }.glass {
 backdrop-filter: blur(5px);
